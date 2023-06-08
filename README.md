@@ -6,7 +6,7 @@ Small little side project that automates crafting at the furnace in OSRS.
 Uses Python and a simple image recognition library to look for specific parts of the screen.
 This was a project i did for fun, so i will not work on this in the future (Only when i feel like it).
 
-![Auto Rune.gif](https://github.com/NoahRametsteiner/Software-Engineering/blob/main/README/Projekt%20Raycast%20Game.png?raw=true)
+![Auto Rune.gif](./README/Animation.gif)
 
 ---
 
